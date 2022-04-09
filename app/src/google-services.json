@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "665877868012",
+    "project_id": "coba-pam",
+    "storage_bucket": "coba-pam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665877868012:android:7c173ed364bbe0f5d464c9",
+        "android_client_info": {
+          "package_name": "com.dewa.pam_gmapfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665877868012-j7nu9cfhq9scrqe82adm89ad34nlucdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTKtX4Yjl3DZP9SuohxBdRkg-w_-lmOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665877868012-j7nu9cfhq9scrqe82adm89ad34nlucdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665877868012:android:551b38f99a9c3feed464c9",
+        "android_client_info": {
+          "package_name": "com.dewa.pam_tugas3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665877868012-j7nu9cfhq9scrqe82adm89ad34nlucdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTKtX4Yjl3DZP9SuohxBdRkg-w_-lmOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665877868012-j7nu9cfhq9scrqe82adm89ad34nlucdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
